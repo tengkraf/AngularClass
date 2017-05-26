@@ -1,0 +1,175 @@
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\csc.exe
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\vbc.exe
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.WebApi.dll.config
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.WebApi.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.WebApi.pdb
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\EntityFramework.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.BLL.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.Contracts.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.Pocos.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\System.Web.Cors.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\System.Web.Http.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.DAL.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.BLL.pdb
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.Contracts.pdb
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.Pocos.pdb
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\EntityFramework.xml
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\System.Web.Http.xml
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.DAL.pdb
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\obj\Debug\Northwind.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\obj\Debug\Northwind.WebApi.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.WebApi\obj\Debug\Northwind.WebApi.pdb
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\csc.exe
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\vbc.exe
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.WebApi.dll.config
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.WebApi.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.WebApi.pdb
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\EntityFramework.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.BLL.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.Contracts.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.Pocos.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\System.Web.Cors.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\System.Web.Http.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.DAL.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.BLL.pdb
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.Contracts.pdb
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.Pocos.pdb
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\EntityFramework.xml
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\System.Web.Http.xml
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.DAL.pdb
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\bin\Northwind.DAL.dll.config
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\obj\Debug\Northwind.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\obj\Debug\Northwind.WebApi.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.WebApi\obj\Debug\Northwind.WebApi.pdb
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\obj\Debug\Northwind.WebApi.csprojResolveAssemblyReference.cache
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\csc.exe
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\vbc.exe
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.WebApi.dll.config
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.WebApi.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.WebApi.pdb
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\EntityFramework.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\Newtonsoft.Json.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.BLL.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.Contracts.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.Pocos.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\System.Web.Cors.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\System.Web.Http.Cors.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\System.Web.Http.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.DAL.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.BLL.pdb
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.Contracts.pdb
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.Pocos.pdb
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\EntityFramework.xml
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\System.Web.Http.Cors.xml
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\Newtonsoft.Json.xml
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\System.Web.Http.xml
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.DAL.pdb
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.DAL.dll.config
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\obj\Debug\Northwind.WebApi.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.WebApi\obj\Debug\Northwind.WebApi.pdb
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\csc.exe
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\vbc.exe
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.WebApi.dll.config
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.WebApi.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.WebApi.pdb
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\EntityFramework.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\Newtonsoft.Json.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.BLL.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.Contracts.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.Pocos.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\System.Web.Cors.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\System.Web.Http.Cors.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\System.Web.Http.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.DAL.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.BLL.pdb
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.Contracts.pdb
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.Pocos.pdb
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\EntityFramework.xml
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\System.Web.Http.Cors.xml
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\Newtonsoft.Json.xml
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\System.Web.Http.xml
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.DAL.pdb
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\bin\Northwind.DAL.dll.config
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\obj\Debug\Northwind.WebApi.csprojResolveAssemblyReference.cache
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\obj\Debug\Northwind.WebApi.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.WebApi\obj\Debug\Northwind.WebApi.pdb

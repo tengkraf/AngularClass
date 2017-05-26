@@ -1,0 +1,31 @@
+﻿@using Northwind.MVC5App.ViewModels;
+@model List<ShowEmployeesViewModel>
+
+@{
+    ViewBag.Title = "ShowEmployeesRazor";
+}
+
+<h2>ShowEmployeesRazor</h2>
+
+<table class="table">
+    <tr>
+        <th>EmployeeID</th>
+        <th>LastName</th>
+        <th>FirstName</th>
+        <th>Title</th>
+        <th>HomePhone</th>
+        <th>HireDate</th>
+    </tr>
+    @foreach(ShowEmployeesViewModel employee in Model)
+    {
+        <tr>
+            <td>@employee.EmployeeID</td>
+            <td>@employee.LastName</td>
+            <td>@employee.FirstName</td>
+            <td>@employee.Title</td>
+            <td>@employee.HomePhone</td>
+            <td>@employee.ShortHireDate</td>
+        </tr>
+    }
+</table>
+

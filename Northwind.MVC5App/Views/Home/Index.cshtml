@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Welcome to Northwind</h1>
+    <p class="lead">We have <span id="spanProductCount"></span> food products for sale</p>
+    <p><a href="/Product/SearchProducts" class="btn btn-primary btn-lg">View our Products &raquo;</a></p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Customers</h2>
+        <p>
+            Northwind Customers
+        </p>
+        <p><a class="btn btn-default" href="">View Customers &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Suppliers</h2>
+        <p>
+            Northwind Suppliers
+        </p>
+        <p><a class="btn btn-default" href="">View Suppliers &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Shippers</h2>
+        <p>
+            Northwind Shippers
+        </p>
+        <p><a class="btn btn-default" href="">View Shippers &raquo;</a></p>
+    </div>
+</div>
+
+
+@section Scripts
+{
+      
+<script src="~/Scripts/ViewSpecific/Index.js"></script>
+}

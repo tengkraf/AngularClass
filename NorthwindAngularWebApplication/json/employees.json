@@ -1,0 +1,43 @@
+﻿[
+  {
+    "EmployeeID": "1",
+    "LastName": "Gates",
+    "FirstName": "Bill",
+    "HomePhone": "666-666-6666",
+    "Title": "Started Microsoft",
+    "HireDate":  "01-01-2000"
+  },
+  {
+    "EmployeeID": "2",
+    "LastName": "Gosling",
+    "FirstName": "James",
+    "HomePhone": "666-666-6666",
+    "Title": "Created JAVA",
+    "HireDate": "01-01-2000"
+  },
+  {
+    "EmployeeID": "3",
+    "LastName": "Van Rossum",
+    "FirstName": "Guido",
+    "HomePhone": "666-666-6666",
+    "Title": "Created Python",
+    "HireDate": "01-01-2000"
+  },
+  {
+    "EmployeeID": "4",
+    "LastName": "Engkraf",
+    "FirstName": "Todd",
+    "HomePhone": "666-666-6666",
+    "Title": "Rules the world",
+    "HireDate": "01-01-2000"
+  },
+  {
+    "EmployeeID": "5",
+    "LastName": "Garrett",
+    "FirstName": "Jesse James",
+    "HomePhone": "666-666-6666",
+    "Title": "Coined AJAX",
+    "HireDate": "01-01-2000"
+  }
+
+]

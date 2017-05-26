@@ -1,0 +1,69 @@
+<div ng-controller="createEmployeeController as vm" >
+
+<h1>{{vm.message}}</h1>
+    <hr />
+    <form name="vm.employeeForm" class="form-horizontal" novalidate >
+        <div class="form-group">
+            <label for="FirstName" class="col-md-2 control-label">First Name</label>
+            <div class="col-md-10">
+                <input type="text" name="FirstName" id="FirstName" ng-model="vm.employee.FirstName" class="form-control" required ng-maxlength="10" ng-minlength="2"/>
+                <div ng-messages="vm.employeeForm.FirstName.$error" style="color:maroon" role="alert">
+                    <div ng-message="required">Required</div>
+                    <div ng-message="minlength">Your field is too short</div>
+                    <div ng-message="maxlength">Your field is too long</div>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="LastName" class="col-md-2 control-label">Last Name</label>
+            <div class="col-md-10">
+                <input type="text" name="LastName" id="LastName" ng-model="vm.employee.LastName" class="form-control" required ng-maxlength="20" ng-minlength="2"/>
+                <div ng-messages="vm.employeeForm.LastName.$error" style="color:maroon" role="alert">
+                    <div ng-message="required">Required</div>
+                    <div ng-message="minlength">Your field is too short</div>
+                    <div ng-message="maxlength">Your field is too long</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="Title" class="col-md-2 control-label">Title</label>
+            <div class="col-md-10">
+                <input type="text" name="Title" id="Title" ng-model="vm.employee.Title" class="form-control" ng-maxlength="30"/>
+                <div ng-messages="vm.employeeForm.Title.$error" style="color:maroon" role="alert">
+                    <div ng-message="maxlength">Your field is too long</div>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="HomePhone" class="col-md-2 control-label">Home Phone</label>
+            <div class="col-md-10">
+                <input type="text" name="HomePhone" id="HomePhone" ng-model="vm.employee.HomePhone" class="form-control" ng-maxlength="24"/>
+                <div ng-messages="vm.employeeForm.HomePhone.$error" style="color:maroon" role="alert">
+                    <div ng-message="maxlength">Your field is too long</div>
+                </div>
+            </div>
+        </div>
+        <div class="form-group ">
+            <label for="HireDate" class="col-md-2 control-label">Hire Date</label>
+            <div class="col-md-10">
+                <input type="text" name="HireDate" id="HireDate" ng-model="vm.employee.HireDate" class="form-control date-picker" />
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-3 col-md-offset-2">
+                <button ng-click="vm.save()" class="form-control newEmployeeButton " ng-disabled="vm.employeeForm.$invalid"><span class="glyphicon glyphicon-floppy-disk"></span>  Create New Employee  </button>
+            </div>
+            <div class="col-md-3">
+                <button ng-click="vm.resetForm()" class="form-control newEmployeeButton "><span class="glyphicon glyphicon-remove"></span>  Reset Form</button>
+            </div>
+        </div>
+
+
+</form>
+
+
+</div>
+
+
+

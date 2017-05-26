@@ -1,0 +1,17 @@
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.Pocos\bin\Debug\Northwind.Pocos.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.Pocos\bin\Debug\Northwind.Pocos.pdb
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.Pocos\obj\Debug\Northwind.Pocos.csprojResolveAssemblyReference.cache
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.Pocos\obj\Debug\Northwind.Pocos.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.Pocos\obj\Debug\Northwind.Pocos.pdb
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.Pocos\bin\Debug\Northwind.Pocos.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.Pocos\bin\Debug\Northwind.Pocos.pdb
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.Pocos\obj\Debug\Northwind.Pocos.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.Pocos\obj\Debug\Northwind.Pocos.pdb
+C:\Paul_Elias\Day2\Day2Projects\Northwind.Pocos\bin\Debug\Northwind.Pocos.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.Pocos\bin\Debug\Northwind.Pocos.pdb
+C:\Paul_Elias\Day2\Day2Projects\Northwind.Pocos\obj\Debug\Northwind.Pocos.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.Pocos\obj\Debug\Northwind.Pocos.pdb
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.Pocos\bin\Debug\Northwind.Pocos.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.Pocos\bin\Debug\Northwind.Pocos.pdb
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.Pocos\obj\Debug\Northwind.Pocos.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.Pocos\obj\Debug\Northwind.Pocos.pdb

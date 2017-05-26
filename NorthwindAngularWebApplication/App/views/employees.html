@@ -1,0 +1,26 @@
+<div >
+    <h1>Viewing {{vm.employees.length}} Northwind Employees</h1>
+    <a href="#/createEmployee">Create Employee</a>
+<table class="table table-responsive table-striped ">
+    <thead>
+        <tr>
+            <td>EmployeeID</td>
+            <td>LastName</td>
+            <td>FirstName</td>
+            <td class="text-center">Title</td>
+            <td>HomePhone</td>
+            <td class="text-right">HireDate</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="employee in vm.employees">
+            <td>{{employee.EmployeeID}}</td>
+            <td>{{employee.LastName}}</td>
+            <td>{{employee.FirstName}}</td>
+            <td class="text-center">{{employee.Title}}</td>
+            <td>{{employee.HomePhone }}</td>
+            <td class="text-right">{{employee.HireDate | date : "longDate"}}</td>
+        </tr>
+    </tbody>
+        </table>
+</div>

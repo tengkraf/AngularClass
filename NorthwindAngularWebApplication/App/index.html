@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html ng-app="myApp" >
+<head>
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="../Content/main.css" rel="stylesheet" />
+</head>
+<body>
+    <!--  This is the main container view
+            known as the single page in an Angular SPA Application-->
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <span class="navbar-brand">Northwind Traders</span>
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="#/"><span class="glyphicon glyphicon-home"></span>   Home</a></li>
+                    <li><a href="#/contact"><span class="glyphicon glyphicon-envelope"></span>  Contact</a></li>
+                    <li><a href="#/about"><span class="	glyphicon glyphicon-info-sign"></span>  About</a></li>
+                    <li><a href="#/employees"><span class="glyphicon glyphicon-user"></span>  Employees</a></li>
+                    <li><a href="#/product">Search Product</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container body-content"   ng-controller="mainController">
+        <div ng-view>
+
+        </div>
+        <hr/>
+   
+<footer>
+    <p><span class="glyphicon glyphicon-copyright-mark"></span>  2017 - Northwind Traders MVC App</p>
+</footer>
+</div>
+</body>
+<script src="../Scripts/angular.min.js"></script>
+<script src="../Scripts/angular-route.min.js"></script>
+<script src="../Scripts/angular-messages.min.js"></script>
+<script src="app.js"></script>
+<script src="controllers/homeController.js"></script>
+<script src="controllers/aboutController.js"></script>
+<script src="controllers/contactController.js"></script>
+<script src="controllers/createEmployeeController.js"></script>
+<script src="controllers/employeesController.js"></script>
+<script src="controllers/searchProductController.js"></script>
+<script src="services/employeeService.js"></script>
+<script src="services/productService.js"></script>
+<script src="../Scripts/jquery-1.9.1.min.js"></script>
+<script src="../Scripts/bootstrap.min.js"></script>
+<script src="../Scripts/functions.js"></script>
+
+</html>

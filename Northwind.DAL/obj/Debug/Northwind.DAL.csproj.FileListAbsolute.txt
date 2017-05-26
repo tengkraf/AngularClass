@@ -1,0 +1,55 @@
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.DAL\bin\Debug\Northwind.DAL.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.DAL\bin\Debug\Northwind.DAL.pdb
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.DAL\bin\Debug\Northwind.Contracts.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.DAL\bin\Debug\Northwind.Pocos.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.DAL\bin\Debug\Northwind.Contracts.pdb
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.DAL\bin\Debug\Northwind.Pocos.pdb
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.DAL\obj\Debug\Northwind.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.DAL\obj\Debug\Northwind.DAL.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.DAL\obj\Debug\Northwind.DAL.pdb
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.DAL\bin\Debug\Northwind.DAL.dll.config
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.DAL\bin\Debug\Northwind.DAL.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.DAL\bin\Debug\Northwind.DAL.pdb
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.DAL\bin\Debug\Northwind.Contracts.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.DAL\bin\Debug\Northwind.Pocos.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.DAL\bin\Debug\Northwind.Contracts.pdb
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.DAL\bin\Debug\Northwind.Pocos.pdb
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.DAL\obj\Debug\Northwind.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.DAL\obj\Debug\Northwind.DAL.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.DAL\obj\Debug\Northwind.DAL.pdb
+C:\Paul_Elias\Day2\Day2Projects\Northwind.DAL\obj\Debug\Northwind.DAL.csprojResolveAssemblyReference.cache
+C:\Paul_Elias\Day2\Day2Projects\Northwind.DAL\bin\Debug\Northwind.DAL.dll.config
+C:\Paul_Elias\Day2\Day2Projects\Northwind.DAL\bin\Debug\Northwind.DAL.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.DAL\bin\Debug\Northwind.DAL.pdb
+C:\Paul_Elias\Day2\Day2Projects\Northwind.DAL\bin\Debug\EntityFramework.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.DAL\bin\Debug\Northwind.Contracts.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.DAL\bin\Debug\Northwind.Pocos.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.DAL\bin\Debug\Northwind.Contracts.pdb
+C:\Paul_Elias\Day2\Day2Projects\Northwind.DAL\bin\Debug\Northwind.Pocos.pdb
+C:\Paul_Elias\Day2\Day2Projects\Northwind.DAL\bin\Debug\EntityFramework.xml
+C:\Paul_Elias\Day2\Day2Projects\Northwind.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Paul_Elias\Day2\Day2Projects\Northwind.DAL\obj\Debug\Northwind.DAL.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.DAL\obj\Debug\Northwind.DAL.pdb
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.DAL\bin\Debug\Northwind.DAL.dll.config
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.DAL\bin\Debug\Northwind.DAL.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.DAL\bin\Debug\Northwind.DAL.pdb
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.DAL\bin\Debug\EntityFramework.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.DAL\bin\Debug\Northwind.Contracts.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.DAL\bin\Debug\Northwind.Pocos.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.DAL\bin\Debug\Northwind.Contracts.pdb
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.DAL\bin\Debug\Northwind.Pocos.pdb
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.DAL\bin\Debug\EntityFramework.xml
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.DAL\obj\Debug\Northwind.DAL.csprojResolveAssemblyReference.cache
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.DAL\obj\Debug\Northwind.DAL.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.DAL\obj\Debug\Northwind.DAL.pdb

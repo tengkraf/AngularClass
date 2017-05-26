@@ -1,0 +1,28 @@
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.Contracts\bin\Debug\Northwind.Contracts.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.Contracts\bin\Debug\Northwind.Contracts.pdb
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.Contracts\bin\Debug\Northwind.Pocos.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.Contracts\bin\Debug\Northwind.Pocos.pdb
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.Contracts\obj\Debug\Northwind.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.Contracts\obj\Debug\Northwind.Contracts.dll
+C:\Users\Student\documents\visual studio 2015\Projects\NorthwindTradersProjects\Northwind.Contracts\obj\Debug\Northwind.Contracts.pdb
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.Contracts\bin\Debug\Northwind.Contracts.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.Contracts\bin\Debug\Northwind.Contracts.pdb
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.Contracts\bin\Debug\Northwind.Pocos.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.Contracts\bin\Debug\Northwind.Pocos.pdb
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.Contracts\obj\Debug\Northwind.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.Contracts\obj\Debug\Northwind.Contracts.dll
+C:\Users\Student\Downloads\PaulsCodeDay5\PaulsCodeDay5\NorthwindTradersProjects\Northwind.Contracts\obj\Debug\Northwind.Contracts.pdb
+C:\Paul_Elias\Day2\Day2Projects\Northwind.Contracts\bin\Debug\Northwind.Contracts.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.Contracts\bin\Debug\Northwind.Contracts.pdb
+C:\Paul_Elias\Day2\Day2Projects\Northwind.Contracts\bin\Debug\Northwind.Pocos.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.Contracts\bin\Debug\Northwind.Pocos.pdb
+C:\Paul_Elias\Day2\Day2Projects\Northwind.Contracts\obj\Debug\Northwind.Contracts.csprojResolveAssemblyReference.cache
+C:\Paul_Elias\Day2\Day2Projects\Northwind.Contracts\obj\Debug\Northwind.Contracts.dll
+C:\Paul_Elias\Day2\Day2Projects\Northwind.Contracts\obj\Debug\Northwind.Contracts.pdb
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.Contracts\bin\Debug\Northwind.Contracts.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.Contracts\bin\Debug\Northwind.Contracts.pdb
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.Contracts\bin\Debug\Northwind.Pocos.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.Contracts\bin\Debug\Northwind.Pocos.pdb
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.Contracts\obj\Debug\Northwind.Contracts.csprojResolveAssemblyReference.cache
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.Contracts\obj\Debug\Northwind.Contracts.dll
+C:\Todd_Engkraf\Day2\Day2Projects\Northwind.Contracts\obj\Debug\Northwind.Contracts.pdb

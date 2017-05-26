@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = "SearchProducts";
+}
+
+<h2>Search Products By Category</h2>
+
+<select id="selectCategories">
+    <option value="0">Choose a Category</option>
+</select>
+
+
+<select id="selectProducts">
+    <option value="0">Choose a Product</option>
+</select>
+
+
+<div style="border:2px solid #73AD21; border-radius:5px;margin: 10px 10px 10px 0px;">
+
+    <p id="pDetails" style="font-weight:bold;font-size:22px;margin-left:5px;"></p>
+    <ul id="ulProductData" style="font-size:18px;">
+        
+
+    </ul>
+
+</div>
+   
+
+
+
+
+@section Scripts
+{
+    
+<script src="~/Scripts/ViewSpecific/SearchProducts.js"></script>
+        
+}
+

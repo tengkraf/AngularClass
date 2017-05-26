@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "Employees";
+}
+
+<h2>Show Employees</h2>
+
+@Html.ActionLink("Add a new Employee","CreateEmployee","Employee")
+
+<table class="table" id="tableEmployees">
+    <thead>
+        <tr>
+            <th>EmployeeeID</th>
+            <th>LastName</th>
+            <th>FirstName</th>
+            <th>Title</th>
+            <th>HomePhone</th>
+            <th>HireDate</th>
+        </tr>
+    </thead>
+
+    <tbody></tbody>
+   
+</table>
+
+@section Scripts
+{
+   
+<script src="~/Scripts/ViewSpecific/ShowEmployees.js"></script>
+}
+
